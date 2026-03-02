@@ -11,7 +11,7 @@ This notebook builds a machine learning pipeline to **predict reviewer scores** 
 ## Dataset
 
 - **Source:** Booking.com hotel reviews
-- **File:** `data/hotels.csv`
+- **File:** https://drive.google.com/drive/folders/1FsJ6OMdM_Ls_9PnameufpGWiYxgyf2-M?usp=sharing
 
 ### Columns
 
@@ -127,4 +127,5 @@ pip install pandas numpy scikit-learn category_encoders matplotlib seaborn
 
 - **Python:** 3.9.10
 - **Jupyter Notebook / JupyterLab**
+
 
